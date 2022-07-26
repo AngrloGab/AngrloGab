@@ -1,7 +1,7 @@
 ## Olá, eu sou Ângelo Gabriel 👋
 
 - 🔭 Hoje eu trabalho com ciência de dados e machine learning - NUTES(Núcleo de Tecnologias estratégicas em saúde)
-- 🌱 Estou estudando ciência de dados e Machine learning e front-end
+- 🌱 Estou estudando ciência de dados e Machine learning
 - 💻 Estou cursando "Ciências da computação" na UEPB
 - 📫 Contate-me no email: angelo.computacao@gmail.com
 - 😄 Pronomes: ele/dele
