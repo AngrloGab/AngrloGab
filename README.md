@@ -4,7 +4,6 @@
 - 🌱 Estudo programação e desenvolvimento de software
 - 💻 Sou formado em ciências da computação
 - 📫 Contate-me no email: angelo.computacao@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/AngrloGab">
