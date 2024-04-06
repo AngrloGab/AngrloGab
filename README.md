@@ -1,6 +1,6 @@
 ## Olá, eu sou Ângelo Gabriel 👋
 
-- 🔭 Hoje eu trabalho como ciência de dados e desenvolvedor python - NUTES(Núcleo de Tecnologias estratégicas em saúde)
+- 🔭 Hoje eu trabalho como cientista de dados e desenvolvedor python - NUTES(Núcleo de Tecnologias estratégicas em saúde)
 - 🌱 Estudo programação e desenvolvimento de software
 - 💻 Sou formado em ciências da computação
 - 📫 Contate-me no email: angelo.computacao@gmail.com
